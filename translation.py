@@ -4,7 +4,7 @@ class Translation(object):
 <b>Send me any Telegram file and reply to that file with /rename NewName.extn</b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
-    ABS_TEXT = "What Are You Trying To Do,Mate?"
+    ABS_TEXT = "What Are You Trying TO Do,Mate?"
     UPGRADE_TEXT = "CONTACT @prgofficial"
     DOWNLOAD_START = "Give Me Some Time Bruh!!(〒﹏〒)"
     UPLOAD_START = "Hurray... Completed Downloading(;ŏ﹏ŏ)"
